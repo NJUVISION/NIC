@@ -1,5 +1,7 @@
 # NIC
-End-to-End Learnt Image Compression Codec
+End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling
+
+[Vision Lab](vision.nju.edu.cn), Nanjing University
 
 [Paper](https://arxiv.org/abs/1910.06244)
 
