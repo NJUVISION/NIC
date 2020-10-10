@@ -7,4 +7,4 @@ Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao and Yao Wang
 ## Materials
 [Paper](https://arxiv.org/abs/1910.06244)
 
-[Code [to be released]](...)
+[Code [to be released]](https://gitlab.com/NIC_software/NIC)
