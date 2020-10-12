@@ -15,3 +15,6 @@ This paper proposes an end-to-end learnt lossy image compression approach which 
 [Paper](https://arxiv.org/abs/1910.06244)
 
 [Code & Pretrained Models](http://yun.nju.edu.cn/f/16ce608723/)
+
+## Acknowledgments
+We are grateful for the constructive comments from anonymous reviewers. The corresponding author is Prof. Zhan Ma (mazhan@nju.edu.cn).
