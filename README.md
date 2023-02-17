@@ -16,9 +16,22 @@ This paper proposes an end-to-end learnt lossy image compression approach which 
 <img src="./images/Tecnick_PSNR.png" alt="PSNR_Tec" width="400"/><img src="./images/Tecnick_MSSSIM.png" alt="MSSIM_Tec" width="400"/>
 
 ## Materials
-[Paper](https://arxiv.org/abs/1910.06244)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9359473)
 
 [Code & Pretrained models](https://github.com/NJUVISION/NIC/tree/main/code)
+
+## Citation
+```
+@ARTICLE{9359473,
+  author={Chen, Tong and Liu, Haojie and Ma, Zhan and Shen, Qiu and Cao, Xun and Wang, Yao},
+  journal={IEEE Transactions on Image Processing}, 
+  title={End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling}, 
+  year={2021},
+  volume={30},
+  number={},
+  pages={3179-3191},
+  doi={10.1109/TIP.2021.3058615}}
+```
 
 ## Acknowledgments
 We are grateful for the constructive comments from anonymous reviewers. The corresponding author is Prof. Zhan Ma (mazhan@nju.edu.cn).
